@@ -1,4 +1,6 @@
 #!/bin/bash
+#Após executar o script para obter o phyton, baixe esse repositório localmente para sua máquina 
+#Para executar, é só utilizar: ./projeto_ebac.sh
 
 echo "Olá, vamos escolher 3 números e descobrir a relação entre eles"
 read -p "Digite o primeiro número: " numero1
